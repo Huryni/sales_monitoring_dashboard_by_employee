@@ -1,0 +1,70 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        📊 PERFORMANCE DASHBOARD - QUICK START                  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+🎯 FIRST TIME? INSTALL DEPENDENCIES:
+   
+   1. Open terminal in this folder
+   2. Type: npm install
+   3. Wait for installation
+
+
+🌐 TO USE ON LOCAL NETWORK (MULTIPLE COMPUTERS):
+
+   ┌─────────────────────────────────────────────────────────┐
+   │  OPTION 1: DOUBLE-CLICK (EASIEST)                       │
+   │                                                         │
+   │  📁 iniciar-rede.bat        → For testing/development  │
+   │  📁 iniciar-producao.bat    → For continuous use       │
+   └─────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────┐
+   │  OPTION 2: TERMINAL                                     │
+   │                                                         │
+   │  npm run dev:network        → For testing/development  │
+   │  npm run start:network      → For continuous use       │
+   └─────────────────────────────────────────────────────────┘
+
+
+📝 AFTER STARTING:
+
+   1. Look for a line like this:
+      
+      Network: http://192.168.1.100:3000
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+               NOTE THIS ADDRESS!
+
+   2. Share with your team
+
+   3. Everyone opens browser and types this address
+
+
+💻 THIS COMPUTER ONLY:
+
+   npm run dev
+   
+   Access: http://localhost:3000
+
+
+🔍 DON'T KNOW YOUR IP?
+
+   Double-click: ver-ip.bat
+
+
+❓ QUESTIONS?
+
+   Read: README.md or NETWORK_GUIDE.md
+
+
+⚠️  IMPORTANT:
+
+   ✓ Keep the terminal/window open
+   ✓ Don't close the program while others are using it
+   ✓ Configure firewall if necessary (port 3000)
+
+
+═══════════════════════════════════════════════════════════════
+
+Ready to start! 🚀

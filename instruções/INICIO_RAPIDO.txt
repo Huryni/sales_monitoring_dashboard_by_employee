@@ -1,0 +1,70 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        📊 DASHBOARD DE DESEMPENHO - INÍCIO RÁPIDO             ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+🎯 PRIMEIRA VEZ? INSTALE AS DEPENDÊNCIAS:
+   
+   1. Abra o terminal nesta pasta
+   2. Digite: npm install
+   3. Aguarde a instalação
+
+
+🌐 PARA USAR NA REDE LOCAL (VÁRIOS COMPUTADORES):
+
+   ┌─────────────────────────────────────────────────────────┐
+   │  OPÇÃO 1: CLIQUE DUPLO (MAIS FÁCIL)                    │
+   │                                                         │
+   │  📁 iniciar-rede.bat        → Para testes/desenvolv.   │
+   │  📁 iniciar-producao.bat    → Para uso contínuo        │
+   └─────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────┐
+   │  OPÇÃO 2: TERMINAL                                      │
+   │                                                         │
+   │  npm run dev:network        → Para testes/desenvolv.   │
+   │  npm run start:network      → Para uso contínuo        │
+   └─────────────────────────────────────────────────────────┘
+
+
+📝 DEPOIS DE INICIAR:
+
+   1. Procure por uma linha assim:
+      
+      Network: http://192.168.1.100:3000
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+               ANOTE ESTE ENDEREÇO!
+
+   2. Compartilhe com sua equipe
+
+   3. Todos abrem o navegador e digitam esse endereço
+
+
+💻 APENAS NESTE COMPUTADOR:
+
+   npm run dev
+   
+   Acesse: http://localhost:3000
+
+
+🔍 NÃO SABE SEU IP?
+
+   Clique duplo em: ver-ip.bat
+
+
+❓ DÚVIDAS?
+
+   Leia: README.md ou REDE_LOCAL.md
+
+
+⚠️  IMPORTANTE:
+
+   ✓ Mantenha o terminal/janela aberta
+   ✓ Não feche o programa enquanto outros estiverem usando
+   ✓ Configure o firewall se necessário (porta 3000)
+
+
+═══════════════════════════════════════════════════════════════
+
+Pronto para começar! 🚀
