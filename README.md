@@ -142,7 +142,7 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 
 
-                    Developed with github.com/Huryni
+                    Developed for github.com/Huryni
                  Next.js • React • TypeScript • Tailwind
 
 
